@@ -1,0 +1,37 @@
+name: Request the pilot
+description: Request the proposed Federal IT expiry watch pilot.
+title: "Pilot request"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Requests are public. Keep personal contact details and confidential information out of this form.
+        An existing GitHub account is required. This request does not take payment or confirm a subscription.
+  - type: dropdown
+    id: organisation-type
+    attributes:
+      label: Organisation type
+      options:
+        - IT reseller
+        - Managed service provider
+        - Other organisation
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: What do you need from the brief?
+      description: Describe the contract categories or planning need. Exclude confidential information and personal contact details.
+    validations:
+      required: true
+  - type: dropdown
+    id: contact-channel
+    attributes:
+      label: Preferred contact channel
+      description: Select a channel only. Do not enter an address, phone number or account handle.
+      options:
+        - Public reply on this GitHub issue
+        - Email (arrange details separately)
+        - Other channel (arrange details separately)
+    validations:
+      required: true
