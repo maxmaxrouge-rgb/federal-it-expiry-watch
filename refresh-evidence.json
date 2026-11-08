@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-11-08T20:38:51.645941+00:00",
+  "records": [
+    {
+      "cn": "CN4045733",
+      "url": "https://api.tenders.gov.au/ocds/findById/CN4045733",
+      "sha256": "d352bea7eec35fc517ce096328801cdc3770eef83d722f9b625fc1b085975d52",
+      "release": "prod-814f7f0c2d0f45e8a8419b1d648ee4a8-26d92191c306320c891cfda3f11b3615",
+      "end_date": "2027-03-30"
+    },
+    {
+      "cn": "CN4152728",
+      "url": "https://api.tenders.gov.au/ocds/findById/CN4152728",
+      "sha256": "f4adf07a935d81afa59804f33a8402e6391af046500d61f79f3e3b02d7c3e330",
+      "release": "prod-0ea32dacaaf34c6db5b14d63886c1034-f8f85bdbf30f33c9955f937c999a898d",
+      "end_date": "2027-04-22"
+    },
+    {
+      "cn": "CN4014159",
+      "url": "https://api.tenders.gov.au/ocds/findById/CN4014159",
+      "sha256": "e21be5a0bd45c0b58bdead577d6e66a1b5f29fd8eb3a975044642de5e0080132",
+      "release": "prod-764e35a4896e472db25a5f17d361ea20-e6d8fc262b923214a20e1aa539785863",
+      "end_date": "2027-03-29"
+    }
+  ]
+}
