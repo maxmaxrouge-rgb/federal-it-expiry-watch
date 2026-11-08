@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxmaxrouge-rgb.github.io/federal-it-expiry-watch/sitemap.xml
